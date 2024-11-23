@@ -20,10 +20,7 @@ export default async function Page() {
             <div className="mt-6 space-y-6 prose sm:prose-lg md:prose-xl lg:prose-2xl text-gray-700">
               <p>
                 CrisisHQ is your comprehensive resource for emergency preparedness 
-                and crisis response. We provide expert guidance, practical tips, 
-                and essential information to help you and your community stay safe 
-                during natural disasters, public emergencies, and other critical 
-                situations. Our mission is to empower people with the knowledge 
+                and crisis response. Our mission is to empower people with the knowledge 
                 they need to face unexpected challenges with confidence.
               </p>
             </div>
