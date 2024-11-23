@@ -1,8 +1,4 @@
 import Link from "next/link";
-import { SanityLogo } from "./icons/SanityLogo";
-import { NextJsLogo } from "./icons/NextJsLogo";
-import { PlusIcon } from "./icons/PlusIcon";
-import { GitHubIcon } from "./icons/GitHubIcon";
 
 const navItems = [
   {
@@ -11,7 +7,7 @@ const navItems = [
   },
 ];
 
-import Link from 'next/link'; // Ensure this is imported in Next.js
+import Link from 'next/link'; // Only one import for Link
 import React from 'react'; // Import React if necessary for the environment
 
 const navItems = [
