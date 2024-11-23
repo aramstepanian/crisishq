@@ -32,7 +32,7 @@ export default function Header() {
                 >
                   <Link
                     href={item.href}
-                    className={item.className || ""}
+                    className={item.className}
                     {...(item.isExternal && {
                       target: "_blank",
                       rel: "noopener noreferrer",
